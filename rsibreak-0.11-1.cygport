@@ -1,5 +1,0 @@
-inherit kde4
-
-
-HOMEPAGE="http://rsibreak.org/"
-SRC_URI="http://rsibreak.org/files/${P}.tar.bz2"

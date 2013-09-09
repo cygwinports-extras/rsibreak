@@ -1,7 +1,0 @@
-category: KDE
-requires: libgcc1 libkdecore5 libQtCore4 libQtDBus4 libQtGui4 libstdc++6 libX11_6
-sdesc: "KDE typing break application"
-ldesc: "Repetitive Strain Injury (RSI) is an illness which can occur as 
-a result of continuous work with a mouse and keyboard. The risk of 
-suffering injury increases the longer users work without breaks. 
-RSIBreak simply offers reminders to take a break now and then."

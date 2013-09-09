@@ -1,0 +1,16 @@
+inherit kde4
+
+NAME="rsibreak"
+VERSION=0.11
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE typing break application"
+DESCRIPTION="Repetitive Strain Injury (RSI) is an illness which can occur as a
+result of continuous work with a mouse and keyboard. The risk of suffering
+injury increases the longer users work without breaks. RSIBreak simply offers
+reminders to take a break now and then."
+HOMEPAGE="http://rsibreak.org/"
+# website is down
+#SRC_URI="http://rsibreak.org/files/rsibreak-${VERSION}.tar.bz2"
+md5sum=d5dd540efd18900aa508eee381bcaafd
+SRC_URI="http://pkgs.fedoraproject.org/repo/pkgs/rsibreak/rsibreak-${VERSION}.tar.bz2/${md5sum}/rsibreak-${VERSION}.tar.bz2"
